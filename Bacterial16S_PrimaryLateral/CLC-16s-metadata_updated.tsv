@@ -1,0 +1,110 @@
+SampleID	Plot	Rep	SoilP	Tret	Date	Stage	SampleType	RootType	SampleLabel	PlantDensity	Yield	Ctrl	Unit
+BacSoil1	101	Rep1	P	P_PR	20-Jun-23	4wk	Rhizo	Primary	P_P_101	23	2402.9	N	Spring Plant Density (# plants/m)
+BacSoil2	202	Rep2	P	P_PR	20-Jun-23	4wk	Rhizo	Primary	P_P_202	27	2679.4	N	Yield (kg/ha)
+BacSoil3	302	Rep3	P	P_PR	20-Jun-23	4wk	Rhizo	Primary	P_P_302	21	4147	N	
+BacSoil4	402	Rep4	P	P_PR	20-Jun-23	4wk	Rhizo	Primary	P_P_402	25	3136	N	
+BacSoil5	501	Rep5	P	P_PR	20-Jun-23	4wk	Rhizo	Primary	P_P_501	24	3092.1	N	
+BacSoil6	601	Rep6	P	P_PR	20-Jun-23	4wk	Rhizo	Primary	P_P_601	22	3662.9	N	
+BacSoil7	101	Rep1	P	P_LR	20-Jun-23	4wk	Rhizo	Lateral	P_L_101	23	2402.9	N	
+BacSoil8	202	Rep2	P	P_LR	20-Jun-23	4wk	Rhizo	Lateral	P_L_202	27	2679.4	N	
+BacSoil9	302	Rep3	P	P_LR	20-Jun-23	4wk	Rhizo	Lateral	P_L_302	21	4147	N	
+BacSoil10	402	Rep4	P	P_LR	20-Jun-23	4wk	Rhizo	Lateral	P_L_402	25	3136	N	
+BacSoil11	501	Rep5	P	P_LR	20-Jun-23	4wk	Rhizo	Lateral	P_L_501	24	3092.1	N	
+BacSoil12	601	Rep6	P	P_LR	20-Jun-23	4wk	Rhizo	Lateral	P_L_601	22	3662.9	N	
+BacSoil13	102	Rep1	NP	NP_PR	20-Jun-23	4wk	Rhizo	Primary	NP_P_102	17	2579.1	N	
+BacSoil14	201	Rep2	NP	NP_PR	20-Jun-23	4wk	Rhizo	Primary	NP_P_201	36	3043.1	N	
+BacSoil15	301	Rep3	NP	NP_PR	20-Jun-23	4wk	Rhizo	Primary	NP_P_301	22	4288.2	N	
+BacSoil16	401	Rep4	NP	NP_PR	20-Jun-23	4wk	Rhizo	Primary	NP_P_401	29	4071.8	N	
+BacSoil17	502	Rep5	NP	NP_PR	20-Jun-23	4wk	Rhizo	Primary	NP_P_502	29	3307.4	N	
+BacSoil18	602	Rep6	NP	NP_PR	20-Jun-23	4wk	Rhizo	Primary	NP_P_602	14	3028.5	N	
+BacSoil19	102	Rep1	NP	NP_LR	20-Jun-23	4wk	Rhizo	Lateral	NP_L_102	17	2579.1	N	
+BacSoil20	201	Rep2	NP	NP_LR	20-Jun-23	4wk	Rhizo	Lateral	NP_L_201	36	3043.1	N	
+BacSoil21	301	Rep3	NP	NP_LR	20-Jun-23	4wk	Rhizo	Lateral	NP_L_301	22	4288.2	N	
+BacSoil22	401	Rep4	NP	NP_LR	20-Jun-23	4wk	Rhizo	Lateral	NP_L_401	29	4071.8	N	
+BacSoil23	502	Rep5	NP	NP_LR	20-Jun-23	4wk	Rhizo	Lateral	NP_L_502	29	3307.4	N	
+BacSoil24	602	Rep6	NP	NP_LR	20-Jun-23	4wk	Rhizo	Lateral	NP_L_602	14	3028.5	N	
+BacSoil25	101	Rep1	P	P_PR	05-Jul-23	6wk	Rhizo	Primary	P_P_101	23	2402.9	N	
+BacSoil26	201	Rep2	P	P_PR	05-Jul-23	6wk	Rhizo	Primary	P_P_202	27	2679.4	N	
+BacSoil27	302	Rep3	P	P_PR	05-Jul-23	6wk	Rhizo	Primary	P_P_302	21	4147	N	
+BacSoil28	402	Rep4	P	P_PR	05-Jul-23	6wk	Rhizo	Primary	P_P_402	25	3136	N	
+BacSoil29	501	Rep5	P	P_PR	05-Jul-23	6wk	Rhizo	Primary	P_P_501	24	3092.1	N	
+BacSoil30	601	Rep6	P	P_PR	05-Jul-23	6wk	Rhizo	Primary	P_P_601	22	3662.9	N	
+BacSoil31	101	Rep1	P	P_LR	05-Jul-23	6wk	Rhizo	Lateral	P_L_101	23	2402.9	N	
+BacSoil32	202	Rep2	P	P_LR	05-Jul-23	6wk	Rhizo	Lateral	P_L_202	27	2679.4	N	
+BacSoil33	302	Rep3	P	P_LR	05-Jul-23	6wk	Rhizo	Lateral	P_L_302	21	4147	N	
+BacSoil34	402	Rep4	P	P_LR	05-Jul-23	6wk	Rhizo	Lateral	P_L_402	25	3136	N	
+BacSoil35	501	Rep5	P	P_LR	05-Jul-23	6wk	Rhizo	Lateral	P_L_501	24	3092.1	N	
+BacSoil36	601	Rep6	P	P_LR	05-Jul-23	6wk	Rhizo	Lateral	P_L_601	22	3662.9	N	
+BacSoil37	101	Rep1	P	P_WR	05-Jul-23	6wk	Rhizo	Whole	P_L_101	23	2402.9	N	
+BacSoil38	202	Rep2	P	P_WR	05-Jul-23	6wk	Rhizo	Whole	P_L_202	27	2679.4	N	
+BacSoil39	302	Rep3	P	P_WR	05-Jul-23	6wk	Rhizo	Whole	P_L_302	21	4147	N	
+BacSoil40	402	Rep4	P	P_WR	05-Jul-23	6wk	Rhizo	Whole	P_L_402	25	3136	N	
+BacSoil41	501	Rep5	P	P_WR	05-Jul-23	6wk	Rhizo	Whole	P_L_501	24	3092.1	N	
+BacSoil42	601	Rep6	P	P_WR	05-Jul-23	6wk	Rhizo	Whole	P_L_601	22	3662.9	N	
+BacSoil43	102	Rep1	NP	NP_PR	05-Jul-23	6wk	Rhizo	Primary	NP_P_102	17	2579.1	N	
+BacSoil44	201	Rep2	NP	NP_PR	05-Jul-23	6wk	Rhizo	Primary	NP_P_201	36	3043.1	N	
+BacSoil45	301	Rep3	NP	NP_PR	05-Jul-23	6wk	Rhizo	Primary	NP_P_301	22	4288.2	N	
+BacSoil46	401	Rep4	NP	NP_PR	05-Jul-23	6wk	Rhizo	Primary	NP_P_401	29	4071.8	N	
+BacSoil47	502	Rep5	NP	NP_PR	05-Jul-23	6wk	Rhizo	Primary	NP_P_502	29	3307.4	N	
+BacSoil48	602	Rep6	NP	NP_PR	05-Jul-23	6wk	Rhizo	Primary	NP_P_602	14	3028.5	N	
+BacSoil49	102	Rep1	NP	NP_LR	05-Jul-23	6wk	Rhizo	Lateral	NP_L_102	17	2579.1	N	
+BacSoil50	201	Rep2	NP	NP_LR	05-Jul-23	6wk	Rhizo	Lateral	NP_L_201	36	3043.1	N	
+BacSoil51	301	Rep3	NP	NP_LR	05-Jul-23	6wk	Rhizo	Lateral	NP_L_301	22	4288.2	N	
+BacSoil52	401	Rep4	NP	NP_LR	05-Jul-23	6wk	Rhizo	Lateral	NP_L_401	29	4071.8	N	
+BacSoil53	502	Rep5	NP	NP_LR	05-Jul-23	6wk	Rhizo	Lateral	NP_L_502	29	3307.4	N	
+BacSoil54	602	Rep6	NP	NP_LR	05-Jul-23	6wk	Rhizo	Lateral	NP_L_602	14	3028.5	N	
+BacSoil55	102	Rep1	NP	NP_WR	05-Jul-23	6wk	Rhizo	Whole	NP_L_102	17	2579.1	N	
+BacSoil56	201	Rep2	NP	NP_WR	05-Jul-23	6wk	Rhizo	Whole	NP_L_201	36	3043.1	N	
+BacSoil57	301	Rep3	NP	NP_WR	05-Jul-23	6wk	Rhizo	Whole	NP_L_301	22	4288.2	N	
+BacSoil58	401	Rep4	NP	NP_WR	05-Jul-23	6wk	Rhizo	Whole	NP_L_401	29	4071.8	N	
+BacSoil59	502	Rep5	NP	NP_WR	05-Jul-23	6wk	Rhizo	Whole	NP_L_502	29	3307.4	N	
+BacSoil60	602	Rep6	NP	NP_WR	05-Jul-23	6wk	Rhizo	Whole	NP_L_602	14	3028.5	N	
+BacSoil61	502	Rep5	NP		20-Jun-23	4wk	Rhizo	Lateral	P_L_502	29	3307.4	Y	
+BacSoil62	601	Rep6	P		05-Jul-23	6wk	Rhizo	Whole	P_W_601	22	3662.9	Y	
+BacSoilNTC1	BacSoilNTC1	BacSoilNTC1	BacSoilNTC1		BacSoilNTC1	BacSoilNTC1	BacSoilNTC1	BacSoilNTC1	BacSoilNTC1			Y	
+BacSoilNTC2	BacSoilNTC2	BacSoilNTC2	BacSoilNTC2		BacSoilNTC2	BacSoilNTC2	BacSoilNTC2	BacSoilNTC2	BacSoilNTC2			Y	
+BacRt25	101	Rep1	P	P_PR	05-Jul-23	6wk	Root	Primary	P_P_101	23	2402.9	N	
+BacRt26	202	Rep2	P	P_PR	05-Jul-23	6wk	Root	Primary	P_P_202	27	2679.4	N	
+BacRt27	302	Rep3	P	P_PR	05-Jul-23	6wk	Root	Primary	P_P_302	21	4147	N	
+BacRt28	402	Rep4	P	P_PR	05-Jul-23	6wk	Root	Primary	P_P_402	25	3136	N	
+BacRt29	501	Rep5	P	P_PR	05-Jul-23	6wk	Root	Primary	P_P_501	24	3092.1	N	
+BacRt30	601	Rep6	P	P_PR	05-Jul-23	6wk	Root	Primary	P_P_601	22	3662.9	N	
+BacRt31	101	Rep1	P	P_LR	05-Jul-23	6wk	Root	Lateral	P_L_101	23	2402.9	N	
+BacRt32	202	Rep2	P	P_LR	05-Jul-23	6wk	Root	Lateral	P_L_202	27	2679.4	N	
+BacRt33	302	Rep3	P	P_LR	05-Jul-23	6wk	Root	Lateral	P_L_302	21	4147	N	
+BacRt34	402	Rep4	P	P_LR	05-Jul-23	6wk	Root	Lateral	P_L_402	25	3136	N	
+BacRt35	501	Rep5	P	P_LR	05-Jul-23	6wk	Root	Lateral	P_L_501	24	3092.1	N	
+BacRt36	601	Rep6	P	P_LR	05-Jul-23	6wk	Root	Lateral	P_L_601	22	3662.9	N	
+BacRt37	101	Rep1	P	P_WR	05-Jul-23	6wk	Root	Whole	P_L_101	23	2402.9	N	
+BacRt38	202	Rep2	P	P_WR	05-Jul-23	6wk	Root	Whole	P_L_202	27	2679.4	N	
+BacRt39	302	Rep3	P	P_WR	05-Jul-23	6wk	Root	Whole	P_L_302	21	4147	N	
+BacRt40	402	Rep4	P	P_WR	05-Jul-23	6wk	Root	Whole	P_L_402	25	3136	N	
+BacRt41	501	Rep5	P	P_WR	05-Jul-23	6wk	Root	Whole	P_L_501	24	3092.1	N	
+BacRt42	601	Rep6	P	P_WR	05-Jul-23	6wk	Root	Whole	P_L_601	22	3662.9	N	
+BacRt43	102	Rep1	NP	NP_PR	05-Jul-23	6wk	Root	Primary	NP_P_102	17	2579.1	N	
+BacRt44	201	Rep2	NP	NP_PR	05-Jul-23	6wk	Root	Primary	NP_P_201	36	3043.1	N	
+BacRt45	301	Rep3	NP	NP_PR	05-Jul-23	6wk	Root	Primary	NP_P_301	22	4288.2	N	
+BacRt46	401	Rep4	NP	NP_PR	05-Jul-23	6wk	Root	Primary	NP_P_401	29	4071.8	N	
+BacRt47	502	Rep5	NP	NP_PR	05-Jul-23	6wk	Root	Primary	NP_P_502	29	3307.4	N	
+BacRt48	602	Rep6	NP	NP_PR	05-Jul-23	6wk	Root	Primary	NP_P_602	14	3028.5	N	
+BacRt49	102	Rep1	NP	NP_LR	05-Jul-23	6wk	Root	Lateral	NP_L_102	17	2579.1	N	
+BacRt50	201	Rep2	NP	NP_LR	05-Jul-23	6wk	Root	Lateral	NP_L_201	36	3043.1	N	
+BacRt51	301	Rep3	NP	NP_LR	05-Jul-23	6wk	Root	Lateral	NP_L_301	22	4288.2	N	
+BacRt52	401	Rep4	NP	NP_LR	05-Jul-23	6wk	Root	Lateral	NP_L_401	29	4071.8	N	
+BacRt53	502	Rep5	NP	NP_LR	05-Jul-23	6wk	Root	Lateral	NP_L_502	29	3307.4	N	
+BacRt54	602	Rep6	NP	NP_LR	05-Jul-23	6wk	Root	Lateral	NP_L_602	14	3028.5	Y	
+BacRt55	102	Rep1	NP	NP_WR	05-Jul-23	6wk	Root	Whole	NP_L_102	17	2579.1	N	
+BacRt56	201	Rep2	NP	NP_WR	05-Jul-23	6wk	Root	Whole	NP_L_201	36	3043.1	N	
+BacRt57	301	Rep3	NP	NP_WR	05-Jul-23	6wk	Root	Whole	NP_L_301	22	4288.2	N	
+BacRt58	401	Rep4	NP	NP_WR	05-Jul-23	6wk	Root	Whole	NP_L_401	29	4071.8	N	
+BacRt59	502	Rep5	NP	NP_WR	05-Jul-23	6wk	Root	Whole	NP_L_502	29	3307.4	N	
+BacRt60	602	Rep6	NP	NP_WR	05-Jul-23	6wk	Root	Whole	NP_L_602	14	3028.5	N	
+BacRt61	602	Rep6	NP		20-Jun-23	4wk	Root	Primary	P_P_602	14	3028.5	Y	
+BacRt62	602	Rep6	NP		05-Jul-23	6wk	Root	Primary	P_T_602	14	3028.5	Y	
+BacDupRt8	BacDupRt8	BacDupRt8	BacDupRt8		BacDupRt8	BacDupRt8	BacDupRt8	BacDupRt8	BacDupRt8			Y	
+BacDupSoil16	BacDupSoil16	BacDupSoil16	BacDupSoil16		BacDupSoil16	BacDupSoil16	BacDupSoil16	BacDupSoil16	BacDupSoil16			Y	
+BacRtNTC1	BacRtNTC1	BacRtNTC1	BacRtNTC1		BacRtNTC1	BacRtNTC1	BacRtNTC1	BacRtNTC1	BacRtNTC1			Y	
+BacRtNTC2	BacRtNTC2	BacRtNTC2	BacRtNTC2		BacRtNTC2	BacRtNTC2	BacRtNTC2	BacRtNTC2	BacRtNTC2			Y	
+BacRtNTC3	BacRtNTC3	BacRtNTC3	BacRtNTC3		BacRtNTC3	BacRtNTC3	BacRtNTC3	BacRtNTC3	BacRtNTC3			Y	
+BacRtNTC4	BacRtNTC4	BacRtNTC4	BacRtNTC4		BacRtNTC4	BacRtNTC4	BacRtNTC4	BacRtNTC4	BacRtNTC4			Y	
+BacRtNTC5	BacRtNTC5	BacRtNTC5	BacRtNTC5		BacRtNTC5	BacRtNTC5	BacRtNTC5	BacRtNTC5	BacRtNTC5			Y	
